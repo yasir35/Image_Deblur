@@ -53,7 +53,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBGcXVbzaM8v_isd6Ge12lLnWqqQQxw5VE',
+    apiKey: 'Your_API_Key_Here',
     appId: '1:53281813506:android:6cfc2eded9281cbacf631b',
     messagingSenderId: '53281813506',
     projectId: 'image-enhance-c144c',
