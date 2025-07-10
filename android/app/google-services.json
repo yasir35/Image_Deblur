@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "53281813506",
+    "project_id": "image-enhance-c144c",
+    "storage_bucket": "image-enhance-c144c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53281813506:android:6cfc2eded9281cbacf631b",
+        "android_client_info": {
+          "package_name": "com.example.task_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGcXVbzaM8v_isd6Ge12lLnWqqQQxw5VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
